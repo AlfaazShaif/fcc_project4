@@ -1,3 +1,3 @@
-# Technical Documentation - Javascript
+# Responsive Web Design Certification
 
-<a href="https://tech-doc.now.sh/">Link</a> to the deployed version on <a href="https://zeit.co/home">ZEIT</a>.
+# >>Responsive Web Design Project4
