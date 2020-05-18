@@ -1,3 +1,5 @@
-# Responsive Web Design Certification
+# FCC Product Landing Page
 
-# >>Responsive Web Design Project4
+FreeCodeCamp: Responsive Web Design Projects - Build a Technical Documentation Page
+
+Project 4 of Responsive Web Design Projects in Free Code Camp.
